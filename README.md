@@ -1,6 +1,4 @@
-# Ngày 5 — Thiết kế sản phẩm AI cho sự không chắc chắn
-
-## Nguyễn Duy Minh Hoàng - MSHV: 2A202600155
+# Nguyễn Duy Minh Hoàng - MSHV: 2A202600155 - Ngày 5 — Thiết kế sản phẩm AI cho sự không chắc chắn
 
 > AI chạy được chưa phải product. Hôm nay học cách thiết kế cho uncertainty — khi AI có thể sai, UI phải xử lý thế nào?
 
